@@ -18,16 +18,16 @@ class pChar {
         {
             case '0':
                 this.baseArrChar = [
-                    '---',
+                    ' - ',
                     '| |',
                     '| |',
                     '| |',
-                    '---',
+                    '|_|',
                 ]
                 break
             case '1':
                 this.baseArrChar = [
-                    '  |',
+                    '   ',
                     '  |',
                     '  |',
                     '  |',
@@ -36,52 +36,52 @@ class pChar {
                 break
             case '2':
                 this.baseArrChar = [
-                    '---',
+                    '-- ',
                     '  |',
-                    '---',
+                    ' _|',
                     '|  ',
-                    '---',
+                    '|__',
                 ]
                 break
             case '3':
                 this.baseArrChar = [
-                    '---',
+                    '-- ',
                     '  |',
-                    '---',
+                    '--|',
                     '  |',
-                    '---',
+                    '__|',
                 ]
                 break
             case '4':
                 this.baseArrChar = [
+                    '   ',
                     '| |',
-                    '| |',
-                    '---',
+                    '|_|',
                     '  |',
                     '  |',
                 ]
                 break
             case '5':
                 this.baseArrChar = [
-                    '---',
+                    ' --',
                     '|  ',
-                    '---',
+                    '|_ ',
                     '  |',
-                    '---',
+                    '__|',
                 ]
                 break
             case '6':
                 this.baseArrChar = [
-                    '---',
+                    ' --',
                     '|  ',
-                    '---',
+                    '|- ',
                     '| |',
-                    '---',
+                    '|_|',
                 ]
                 break
             case '7':
                 this.baseArrChar = [
-                    '---',
+                    '-- ',
                     '  |',
                     '  |',
                     '  |',
@@ -90,20 +90,20 @@ class pChar {
                 break
             case '8':
                 this.baseArrChar = [
-                    '---',
+                    ' - ',
                     '| |',
-                    '---',
+                    '|-|',
                     '| |',
-                    '---',
+                    '|_|',
                 ]
                 break
             case '9':
                 this.baseArrChar = [
-                    '---',
+                    ' - ',
                     '| |',
-                    '---',
+                    '|_|',
                     '  |',
-                    '---',
+                    '__|',
                 ]
                 break
         }
